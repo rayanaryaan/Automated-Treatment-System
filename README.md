@@ -17,7 +17,7 @@ Automatted system can suggest medicine based on patients condition. System to pr
 The code is tested in python 3.7.8. 
 
 Use command prompt and execute the following command:
-<pre><code>python automated_treatment_system.py</code></pre>
+<pre><code>python remote_automated_hospital.py</code></pre>
 
 
 ## Challenges
